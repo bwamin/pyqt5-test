@@ -79,7 +79,3 @@ app = QApplication(sys.argv)
 window = MyWindow()
 window.show() 
 sys.exit(app.exec_()) 
-
-git config  user.email "miinn8787@gmail.com"
-git config  user.name "bwamin"
-
